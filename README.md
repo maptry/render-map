@@ -1,3 +1,9 @@
+# render-map
+
+This program takes two main input sources and renders an image from them.
+The sources are an JSON file produced by the query-wikidata program and
+a shape file with german municipality borders.
+
 ## Prerequisites
 
 Install the following software to use this program:
